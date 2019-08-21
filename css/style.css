@@ -9,6 +9,9 @@ body, html {
 	box-sizing: border-box;
 	outline: none;
 }
+html {
+	scroll-behavior: smooth;
+}
 
 .hr-line {
 	width: 90%;
