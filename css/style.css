@@ -10,7 +10,7 @@ body, html {
 	outline: none;
 }
 html {
-	scroll-behavior: smooth;
+	scroll-behavior: smooth; /*scrolls smoothly*/
 }
 
 .hr-line {
